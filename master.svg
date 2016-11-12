@@ -1,25 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg width="110" height="20" viewBox="0 0 110 20" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter id="a" filterUnits="userSpaceOnUse" x="0" y="0" width="111" height="20">
-      <feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0"/>
-    </filter>
-    <style id="bx-google-fonts">@import url(https://fonts.googleapis.com/css?family=Cutive:400);</style>
-  </defs>
-  <mask maskUnits="userSpaceOnUse" x="0" y="0" width="111" height="20" id="b">
-    <path fill="#FFF" filter="url(#a)" d="M3 0h104c1.66 0 3 1.34 3 3v14c0 1.66-1.34 3-3 3H3c-1.66 0-3-1.34-3-3V3c0-1.66 1.34-3 3-3z"/>
-  </mask>
-  <g mask="url(#b)" transform="matrix(0.87772, 0, 0, 1, 0, 0)">
-    <path fill="#CCA6C4" d="M0 0h34v20H0V0z"/>
-    <path fill="#494368" d="M34 0h77v20H34V0z"/>
-    <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="-261.122" y1="239.55" x2="-261.122" y2="238.55" gradientTransform="matrix(111 0 0 -20 29040 4791)">
-      <stop offset="0" stop-color="#BBB" stop-opacity=".1"/>
-      <stop offset="1" stop-opacity=".1"/>
-    </linearGradient>
-    <path fill="url(#c)" d="M0 0h111v20H0V0z"/>
-  </g>
-  <path fill="#DDA4CA" d="M26.57 9.76l-4.91-4.5-.69.75 4.09 3.75H8.94l4.09-3.75-.69-.75-4.91 4.5v2.97c0 1.34 1.29 2.43 2.88 2.43h3.03c1.59 0 2.88-1.09 2.88-2.43v-1.95h1.57v1.95c0 1.34 1.29 2.43 2.88 2.43h3.03c1.59 0 2.88-1.09 2.88-2.43l-.01-2.97z"/>
-  <path fill="#261120" d="M26.57 9.34l-4.91-4.5-.69.75 4.09 3.75H8.94l4.09-3.75-.69-.75-4.91 4.5v2.97c0 1.34 1.29 2.43 2.88 2.43h3.03c1.59 0 2.88-1.09 2.88-2.43v-1.95h1.57v1.95c0 1.34 1.29 2.43 2.88 2.43h3.03c1.59 0 2.88-1.09 2.88-2.43l-.01-2.97z"/>
-  <text x="38.683" y="14.68" style="font-family: Cutive; font-size: 12px; white-space: pre;">master</text>
-  <text x="38.339" y="13.664" style="fill: rgb(255, 255, 255); font-family: Cutive; font-size: 12px; white-space: pre;">master</text>
+
+<svg width="95px" height="20px" viewBox="-2 -19 95 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M2.56363636,0 L91.4363636,0 C92.8549091,0 94,1.34 94,3 L94,17 C94,18.66 92.8549091,20 91.4363636,20 L2.56363636,20 C1.14509091,20 0,18.66 0,17 L0,3 C0,1.34 1.14509091,0 2.56363636,0 Z" id="path-1"></path>
+        <linearGradient x1="49.9621622%" y1="0%" x2="49.9621622%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#BBBBBB" stop-opacity="0.1" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="master" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-2.000000, -19.000000)">
+        <g id="Clipped">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Shape"></g>
+            <g id="Group" mask="url(#mask-2)">
+                <polygon id="Shape" fill="#CCA6C4" points="0 0 32.2435991 0 32.2435991 20 0 20"></polygon>
+                <polygon id="Shape" fill="#494368" points="32.2435991 0 105.265868 0 105.265868 20 32.2435991 20"></polygon>
+                <polygon id="Shape" fill="url(#linearGradient-3)" points="0 0 105.265868 0 105.265868 20 0 20"></polygon>
+            </g>
+        </g>
+        <path d="M29.14,9.5 L24.23,5 L23.54,5.75 L27.63,9.5 L11.51,9.5 L15.6,5.75 L14.91,5 L10,9.5 L10,12.47 C10,13.81 11.29,14.9 12.88,14.9 L15.91,14.9 C17.5,14.9 18.79,13.81 18.79,12.47 L18.79,10.52 L20.36,10.52 L20.36,12.47 C20.36,13.81 21.65,14.9 23.24,14.9 L26.27,14.9 C27.86,14.9 29.15,13.81 29.15,12.47 L29.14,9.5 L29.14,9.5 Z" id="Shape" fill="#DDA4CA"></path>
+        <path d="M26.14,9.5 L21.23,5 L20.54,5.75 L24.63,9.5 L8.51,9.5 L12.6,5.75 L11.91,5 L7,9.5 L7,12.47 C7,13.81 8.29,14.9 9.88,14.9 L12.91,14.9 C14.5,14.9 15.79,13.81 15.79,12.47 L15.79,10.52 L17.36,10.52 L17.36,12.47 C17.36,13.81 18.65,14.9 20.24,14.9 L23.27,14.9 C24.86,14.9 26.15,13.81 26.15,12.47 L26.14,9.5 L26.14,9.5 Z" id="Shape" fill="#261120"></path>
+        <g id="text" transform="translate(41.000000, 4.000000)" font-size="12" font-family="LithosPro-Regular, Lithos Pro" font-weight="normal">
+            <text id="master" fill="#000000">
+                <tspan x="1" y="10">master</tspan>
+            </text>
+            <text id="master" fill="#FFFFFF">
+                <tspan x="0" y="9">master</tspan>
+            </text>
+        </g>
+    </g>
 </svg>
